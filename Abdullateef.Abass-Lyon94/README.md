@@ -1,0 +1,1 @@
+This is a project about building a portfolio website. In line with the 20 days challenge of the DSC-Unilag Chapter. I am starting right now and committed to finishing the project before the deadline.
